@@ -51,3 +51,11 @@ def webhook():
 @app.route('/')
 def home():
     return "working!"
+
+
+# set webhook
+@app.route('/set-webook/')
+def set_hook():
+    r = bot.set_webhook('https://echobotdeploy.pythonanywhere.com/webhook/')
+
+    return f"info: {r}"
