@@ -2288,16 +2288,6 @@
         }
     },
     "users": {
-        "73567759": {
-            "first_name": "Sarvar",
-            "last_name": "Sarvar",
-            "username": "sara"
-        },
-        "151154545": {
-            "first_name": "Sarvar",
-            "last_name": "Sarvar",
-            "username": "sara"
-        },
         "1258594598": {
             "first_name": "Diyorbek",
             "last_name": "Jumanov",
@@ -2307,19 +2297,7 @@
     "cart": {
         "1": {
             "user_id": 1258594598,
-            "phone_id": 219
-        },
-        "2": {
-            "user_id": 1258594598,
-            "phone_id": 223
-        },
-        "3": {
-            "user_id": 1258594598,
-            "phone_id": 209
-        },
-        "4": {
-            "user_id": 1258594598,
-            "phone_id": "183"
+            "phone_id": "25"
         }
     }
 }

@@ -6,7 +6,7 @@ from telegram import (
 from telegram.ext import CallbackContext
 from db import DB
 
-db = DB(file_name='db.json')
+db = DB(file_name='../db.json')
 
 
 def start(update: Update, context: CallbackContext) -> None:
