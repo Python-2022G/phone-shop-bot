@@ -48,6 +48,6 @@ def webhook():
 
 
 # create home test view
-@app.route('')
+@app.route('/')
 def home():
     return "working!"
